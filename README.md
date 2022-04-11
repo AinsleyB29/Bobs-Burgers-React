@@ -34,7 +34,7 @@ npm install
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Click the burger 🍔
+## Click the 🍔
 Click on the burger and select a character from the menu.
 
 ## Contact
