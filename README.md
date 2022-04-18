@@ -17,7 +17,7 @@ A UI Pattern Project with data fetched from Bob's Burger's API that I previously
 ## Clone repository
 
 ```
-git clone https://github.com/AinsleyB29/Severance-API.git
+git clone https://github.com/AinsleyB29/Bobs-Burgers-React.git
 ```
 
 ## Install Dependencies
